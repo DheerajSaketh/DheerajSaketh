@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Dheeraj Saketh Vinukonda
 
-<!--
-**DheerajSaketh/DheerajSaketh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Azure Data Engineer | Data Pipeline Architect | Cloud Analytics Enthusiast**
 
-Here are some ideas to get you started:
+I specialize in building scalable, cloud‑native data solutions using the Azure ecosystem. With hands‑on experience in Data Factory, Synapse, Databricks, Data Lake, and Purview, I design pipelines and governance frameworks that power enterprise analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Languages:** Python, SQL, PySpark, Scala  
+**Big Data:** Apache Spark, Kafka, Hive  
+**Cloud:** Azure (ADF, Synapse, Databricks, ADLS, Key Vault, Purview, Fabric), AWS  
+**Databases:** SQL Server, PostgreSQL, MySQL, Oracle, MongoDB  
+**Tools:** Power BI, Git, Azure DevOps, CI/CD  
+
+---
+
+## 📌 Featured Projects
+
+*(Coming soon — stay tuned!)*
+
+---
+
+## 📈 What I'm Working On
+- Building a portfolio of Azure‑based data engineering projects  
+- Exploring Microsoft Fabric for unified analytics  
+- Sharpening my data modeling and governance skills  
+
+---
+
+## 📫 Connect With Me
+📧 **dsvdheerajsaketh@gmail.com**  
+🔗 **linkedin.com/in/dheeraj-saketh**
