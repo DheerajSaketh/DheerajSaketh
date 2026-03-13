@@ -15,10 +15,9 @@ I enjoy transforming raw data into analytics‑ready datasets, optimizing pipeli
 ## 📊 GitHub Stats  
 
 
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-saketh&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-saketh&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠 Technical Skills
