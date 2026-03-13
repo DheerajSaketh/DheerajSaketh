@@ -12,12 +12,12 @@ I enjoy transforming raw data into analytics‑ready datasets, optimizing pipeli
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
+![Dheeraj's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dheeraj-saketh-vinukonda&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheeraj-saketh-vinukonda&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠 Technical Skills
