@@ -1,9 +1,10 @@
 # Hi, I'm Dheeraj Saketh Vinukonda 👋  
 🚀 Azure Data Engineer | Cloud Data Pipeline Specialist | Analytics & Governance Enthusiast
 
-I build scalable, cloud‑native data engineering solutions using the Microsoft Azure ecosystem. With hands‑on experience in Data Factory, Synapse, Databricks, Data Lake, and Purview, I design pipelines, governance frameworks, and analytics systems that power enterprise decision‑making.
+I design and build scalable, cloud‑native data engineering solutions using the Microsoft Azure ecosystem.  
+My work focuses on **data pipelines, governance, analytics, and big‑data processing** using ADF, Databricks, Synapse, ADLS, and Purview.
 
-I enjoy solving complex data problems, optimizing pipelines, and creating reliable architectures that support large‑scale business operations.
+I enjoy transforming raw data into analytics‑ready datasets, optimizing pipelines, and building reliable architectures that support enterprise‑scale operations.
 
 📍 Kansas City, MO, USA  
 📧 dsvdheerajsaketh@gmail.com  
@@ -12,7 +13,7 @@ I enjoy solving complex data problems, optimizing pipelines, and creating reliab
 ---
 
 ## 📊 GitHub Stats  
-*(These will auto‑populate once you start committing)*
+*(These update automatically as you add more code)*
 
 ![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-saketh-vinukonda&show_icons=true&theme=tokyonight)
 
@@ -58,9 +59,30 @@ I enjoy solving complex data problems, optimizing pipelines, and creating reliab
 
 ---
 
-## ☁️ Certifications
-- Microsoft Certified: **Azure Data Fundamentals**  
-- Automation Anywhere: **Global RPA Certification**  
+## 🚀 Featured Project  
+### **Azure End‑to‑End Data Engineering Pipeline**  
+📁 Repo: `azure-data-engineering-pipeline`
+
+This project demonstrates a full enterprise‑grade Azure data pipeline:
+
+#### **Architecture**
+- **ADF** → Ingestion  
+- **ADLS (Bronze)** → Raw storage  
+- **Databricks** → PySpark transformations  
+- **ADLS (Silver/Gold)** → Curated layers  
+- **Synapse SQL** → Analytics serving  
+- **Power BI** → Dashboards  
+
+#### **What’s Included**
+- ✔ Real ADF pipeline JSON  
+- ✔ Databricks notebooks (Bronze → Silver → Gold)  
+- ✔ Synapse SQL scripts  
+- ✔ Raw, processed, curated data layers  
+- ✔ Architecture diagram  
+- ✔ Power BI folder + instructions  
+- ✔ Documentation  
+
+This project showcases real‑world Azure data engineering skills used in enterprise environments.
 
 ---
 
@@ -68,33 +90,37 @@ I enjoy solving complex data problems, optimizing pipelines, and creating reliab
 
 ### **Data Engineer – Stryker**  
 *July 2022 – January 2024*  
-- Built end‑to‑end data pipelines using ADF, Databricks, and ADLS.  
-- Designed analytics‑ready datasets in Azure SQL & Synapse.  
-- Implemented data governance using Purview (cataloging, lineage, compliance).  
-- Developed Power BI dashboards for enterprise reporting.  
-- Optimized SQL & PySpark workflows for batch and streaming data.  
-- Contributed to CI/CD automation using Azure DevOps & Git.  
+- Built end‑to‑end pipelines using ADF, Databricks, ADLS  
+- Designed analytics‑ready datasets in Azure SQL & Synapse  
+- Implemented governance using Purview (cataloging, lineage, compliance)  
+- Developed Power BI dashboards for enterprise reporting  
+- Optimized SQL & PySpark workflows  
+- Contributed to CI/CD automation using Azure DevOps  
 
 ### **Software Developer & Workflow Specialist – CoreLogic**  
 *December 2021 – June 2022*  
-- Developed automated ETL workflows and data models.  
-- Performed governance and QA checks for production pipelines.  
-- Built internal dashboards using Power BI.  
+- Developed automated ETL workflows  
+- Designed SQL‑based data models  
+- Performed governance & QA checks  
+- Built internal Power BI dashboards  
+
+---
+
+## ☁️ Certifications
+- Microsoft Certified: **Azure Data Fundamentals**  
+- Automation Anywhere: **Global RPA Certification**  
 
 ---
 
 ## 🚧 Portfolio Projects (In Progress)
 
-I am currently building several Azure‑based data engineering projects to demonstrate cloud architecture, governance, and scalable data processing.
+### **Coming Next**
+• **Azure Purview Data Governance Project**  
+• **Microsoft Fabric Lakehouse Project**  
+• **Real‑Time Streaming Pipeline (Kafka + Spark)**  
+• **CI/CD for Data Pipelines (Azure DevOps)**  
 
-### **Upcoming Projects**
-• **Azure End‑to‑End Data Pipeline** – ADF → Databricks → ADLS → Synapse → Power BI  
-• **Data Governance with Purview** – Metadata scanning, lineage, classification  
-• **Real‑Time Streaming Pipeline** – Kafka + Spark Structured Streaming  
-• **Microsoft Fabric Lakehouse Project** – Unified analytics with Lakehouse  
-• **CI/CD for Data Pipelines** – Automated deployments using Azure DevOps  
-
-These projects will showcase data ingestion, transformation, orchestration, governance, and analytics.
+These projects will demonstrate governance, lineage, streaming, lakehouse architecture, and automated deployments.
 
 ---
 
