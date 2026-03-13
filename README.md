@@ -13,11 +13,11 @@ I enjoy transforming raw data into analytics‑ready datasets, optimizing pipeli
 ---
 
 ## 📊 GitHub Stats  
-*(These update automatically as you add more code)*
 
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-saketh-vinukonda&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-saketh-vinukonda&layout=compact&theme=tokyonight)
+![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-saketh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-saketh&layout=compact&theme=tokyonight)
 
 ---
 
